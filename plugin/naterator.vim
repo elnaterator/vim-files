@@ -159,6 +159,8 @@ map T <esc>:NERDTreeToggle<cr>
 
 "colorscheme
 colorscheme vividchalk
+set t_Co=256
+hi Normal ctermbg=Black 
 
 "For windows or linux
 map <f1> <esc>:bprev<cr>
